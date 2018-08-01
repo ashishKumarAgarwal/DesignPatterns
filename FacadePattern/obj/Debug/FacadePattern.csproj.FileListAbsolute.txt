@@ -1,0 +1,15 @@
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\RecruitmentFacade.exe.config
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\RecruitmentFacade.exe
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\RecruitmentFacade.pdb
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\Castle.Core.dll
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\Moq.dll
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\System.ValueTuple.dll
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\Castle.Core.xml
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\Moq.pdb
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\Moq.xml
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\bin\Debug\System.ValueTuple.xml
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\obj\Debug\RecruitmentFacade.exe
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\FacadePattern\obj\Debug\RecruitmentFacade.pdb

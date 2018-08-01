@@ -1,0 +1,6 @@
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\Visitor\bin\Debug\Visitor.exe.config
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\Visitor\bin\Debug\Visitor.exe
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\Visitor\bin\Debug\Visitor.pdb
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\Visitor\obj\Debug\Visitor.exe
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\Visitor\obj\Debug\Visitor.pdb

@@ -1,0 +1,5 @@
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\VisitorPattern\bin\Debug\Visitor.exe.config
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\VisitorPattern\bin\Debug\Visitor.exe
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\VisitorPattern\bin\Debug\Visitor.pdb
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\VisitorPattern\obj\Debug\Visitor.exe
+C:\Users\ashish\Documents\Visual Studio 2017\Projects\Design Pattern Tutorial\VisitorPattern\obj\Debug\Visitor.pdb

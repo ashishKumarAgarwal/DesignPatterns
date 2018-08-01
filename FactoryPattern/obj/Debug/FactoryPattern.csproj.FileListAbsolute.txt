@@ -1,0 +1,11 @@
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\FactoryPattern\bin\Debug\FactoryPattern.exe
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\FactoryPattern\bin\Debug\FactoryPattern.pdb
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\FactoryPattern\obj\Debug\FactoryPattern.exe
+c:\Users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\FactoryPattern\obj\Debug\FactoryPattern.pdb
+C:\Users\ashish\Documents\visual studio 2017\Projects\Design Pattern Tutorial\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\ashish\Documents\visual studio 2017\Projects\Design Pattern Tutorial\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\ashish\Documents\visual studio 2017\Projects\Design Pattern Tutorial\FactoryPattern\obj\Debug\FactoryPattern.pdb
+C:\Users\ashish\Documents\visual studio 2017\Projects\Design Pattern Tutorial\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\ashish\Documents\visual studio 2017\Projects\Design Pattern Tutorial\FactoryPattern\bin\Debug\FactoryPattern.pdb

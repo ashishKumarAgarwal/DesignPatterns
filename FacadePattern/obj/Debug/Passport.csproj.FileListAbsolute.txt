@@ -1,0 +1,9 @@
+c:\users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\RecruitmentFacade\bin\Debug\RecruitmentFacade.exe.config
+c:\users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\RecruitmentFacade\bin\Debug\RecruitmentFacade.exe
+c:\users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\RecruitmentFacade\bin\Debug\RecruitmentFacade.pdb
+c:\users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\RecruitmentFacade\obj\Debug\Passport.csprojResolveAssemblyReference.cache
+c:\users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\RecruitmentFacade\obj\Debug\RecruitmentFacade.exe
+c:\users\ashish\documents\visual studio 2017\Projects\RecruitmentFacade\RecruitmentFacade\obj\Debug\RecruitmentFacade.pdb
+C:\Users\ashish\Documents\visual studio 2017\Projects\Design Pattern Tutorial\RecruitmentFacade\bin\Debug\RecruitmentFacade.exe.config
+C:\Users\ashish\Documents\visual studio 2017\Projects\Design Pattern Tutorial\RecruitmentFacade\obj\Debug\RecruitmentFacade.exe
+C:\Users\ashish\Documents\visual studio 2017\Projects\Design Pattern Tutorial\RecruitmentFacade\obj\Debug\RecruitmentFacade.pdb
